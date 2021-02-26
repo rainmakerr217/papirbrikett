@@ -22,9 +22,12 @@ h1, h2{
   background-color: #EBEBEB;
   padding: 10px 35px;
   font-size: 75%;
+  margin-bottom: 1px;
+  margin-top: 1px;
+  width: 800px;
 }
 
-#brikettek{
+.brikettek{
   width: 90%;
   max-width: 500px;
 }
@@ -50,7 +53,8 @@ p:first-letter{
   border-right: 1px solid #3F4F5F;
 }
 
-#presek img{
+.presek
+{
   width: 220px;
   margin-top: 20px;
 }
